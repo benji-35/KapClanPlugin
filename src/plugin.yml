@@ -1,9 +1,9 @@
-name: PluginTemplate
-main: fr.kap35.plugin_template.PluginTemplate
+name: KapClanPlugin
+main: fr.kap35.clans.KapClan
 version: 1.0.0
 author: kap35
 website: https://github.com/benji-35
-description: Template for plugin
+description: Plugin made to create and manage clans
 api-version: 1.19
 
 depend:

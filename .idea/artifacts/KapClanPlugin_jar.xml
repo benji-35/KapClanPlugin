@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KapClanPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KapClanPlugin_jar</output-path>
+    <root id="archive" name="KapClanPlugin.jar">
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../1.19.3/spigot-api-1.19.3-R0.1-20230303.214618-52-shaded.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../1.19.3/plugins/KapEasyMenuPlugin.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="module-output" name="KapClanPlugin" />
+    </root>
+  </artifact>
+</component>
