@@ -9,6 +9,9 @@ public class MainClanMenu extends ChestMenu {
 
     public MainClanMenu(JavaPlugin plugin) throws MenuSizeException {
         super(plugin, "Kap Clan - Menu", 27);
+        addItem(ClanItem.showAllClans(), 0);
+        addItem(ClanItem.showMyClan(), 4);
+        addItem(ClanItem.showClan(""), 8);
     }
 
     @Override
