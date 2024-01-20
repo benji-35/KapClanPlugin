@@ -6,4 +6,12 @@ website: https://github.com/benji-35
 description: Template for plugin
 api-version: 1.19
 
+depend:
+  - KapEasyMenu
+
 commands:
+  clan:
+    description: Open main menu clan
+    usage: /clan
+    permission: kapclan.menu
+    permission-message: You don't have the permission to use this command

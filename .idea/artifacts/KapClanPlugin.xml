@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KapClanPlugin">
+    <output-path>$PROJECT_DIR$/out/artifacts/KapClanPlugin</output-path>
+    <root id="archive" name="KapClanPlugin.jar" />
+  </artifact>
+</component>
