@@ -1,0 +1,2 @@
+# KapPluginTemplate
+Template for plugins
